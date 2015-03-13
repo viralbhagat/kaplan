@@ -13,8 +13,6 @@ namespace MRSSLib
         private string link = "";
         private string description = "";
 
-        private GUID guid;
-        private MediaContent mediaContent;
         private XmlDocument xmlDocument;
 
         public Item(string title, string link, string description, XmlDocument xmlDocument)

@@ -29,6 +29,7 @@ namespace MRSSLib
         }
         public void addItem(string title, string link, string description)
         {
+
             this.channel.addItem(title, link, description);
         }
         public void SaveDocument(string path)

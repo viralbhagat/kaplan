@@ -32,6 +32,7 @@ namespace FlickrClient
 
                 foreach (var photo in topPhotos)
                 {
+                    
                     doc.addItem(photo.Title, photo.SmallUrl, photo.Description);
                 }
                 doc.SaveDocument( AppDomain.CurrentDomain.BaseDirectory +  "flickr.xml");

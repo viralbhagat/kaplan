@@ -50,10 +50,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="MediaTitleTest.cs" />
-    <Compile Include="MediaDescriptionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="GUIDTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\MRSSLib\MRSSLib.csproj">

@@ -41,12 +41,7 @@
   <ItemGroup>
     <Compile Include="Channel.cs" />
     <Compile Include="Document.cs" />
-    <Compile Include="GUID.cs" />
     <Compile Include="Item.cs" />
-    <Compile Include="MediaContent.cs" />
-    <Compile Include="MediaDescription.cs" />
-    <Compile Include="MediaThumbnail.cs" />
-    <Compile Include="MediaTitle.cs" />
     <Compile Include="MRSS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
