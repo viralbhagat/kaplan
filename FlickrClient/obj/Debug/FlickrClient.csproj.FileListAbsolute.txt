@@ -1,0 +1,9 @@
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\bin\Debug\FlickrClient.exe.config
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\bin\Debug\FlickrClient.exe
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\bin\Debug\FlickrClient.pdb
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\bin\Debug\FlickrNet.dll
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\obj\Debug\FlickrClient.csprojResolveAssemblyReference.cache
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\obj\Debug\FlickrClient.exe
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\obj\Debug\FlickrClient.pdb
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\bin\Debug\MRSSLib.dll
+c:\users\viral.bhagat\documents\visual studio 2013\Projects\FlickrClient\FlickrClient\bin\Debug\MRSSLib.pdb
