@@ -48,6 +48,18 @@ namespace MRSSLibUnitTest
             
         }
 
+        [TestMethod]
+        public void Channel_Test_Generation_ItemCount()
+        {
+            var channel = CreateChannel();
+            channel.addItem("title1", "link1", "description1");
+            channel.addItem("title2", "link2", "description2");
+            channel.addItem("title3", "link3", "description3");
+            XmlNode nodeGenerated = channel.GetChannelNode();
+            Assert.AreEqual(nodeGenerated.ChildNodes.Count, 6);//3 items + title link and description
+
+        }
+
 
         private static Channel CreateChannel()
         {
