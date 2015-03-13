@@ -7,7 +7,7 @@ using System.Xml;
 
 namespace MRSSLib
 {
-    class Channel
+    public class Channel
     {
         private string title= "";
         private string link = "";
